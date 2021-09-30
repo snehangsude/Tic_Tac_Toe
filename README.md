@@ -26,6 +26,7 @@ A console game of Tic-Tac-Toe
 
 * Run the application using the Installation section
 * The Grid would be created and the placement numbers are displayed on the top prior to the game
+* Currently, it's a 1-Player Vs Computer
 
 ### Improvements planned
 
