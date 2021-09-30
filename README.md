@@ -16,10 +16,10 @@ A console game of Tic-Tac-Toe
 ## Interface Images
 
 * Placement numbers
-<img src="images/TTT1.png">
+<img src="images/TTT1.PNG">
 
 * Game Console
-<img src="images/TTT.png">
+<img src="images/TTT.PNG">
 
 
 ## How to use
